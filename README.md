@@ -16,6 +16,6 @@ Hasil Tampilan :
 jika ada merah atau kode merah saat dibuka dengan vs code maka solusinya adalah :
 1. Some package are missing, maka bisa lakukan klik get package untuk secara otomatis mendapat pembaharuan sebagai berikut.
 ![Screenshot (334)](https://user-images.githubusercontent.com/71618052/201714229-025ce162-7acf-48c5-a71c-98605e1a2afa.png)
-2. Maka hasilnya sudah tersolved sebagai berikut. Kode yang saat didownload muncul berwarna merah sekarang sudah normal kembali.
+2. Maka hasilnya sudah tersolved sebagai berikut. 
 ![Screenshot (337)](https://user-images.githubusercontent.com/71618052/201714589-faf94469-0e00-4189-a40a-27c694bd64f2.png)
 
