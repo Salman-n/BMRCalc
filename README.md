@@ -1,4 +1,4 @@
-# bmrcalc
+# BMR CALC
 Salman Wiryansyah (K3520070)
 
 Tugas Mata Kuliah Pemrograman Perangkat Bergerak Membuat BMR (Basal Metabolic Rate Calculator).
