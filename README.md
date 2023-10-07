@@ -1,10 +1,7 @@
 # BMR CALC
-Salman Wiryansyah           (K3520070),
-Bagus Prihandono Pamungkas  (K3520016), 
-Muhammad Aqil Sadik         (K3520046),
-Muhammad Fikri Wibowo       (K3520048),
+Salman Wiryansyah
 
-Tugas Mata Kuliah Pemrograman Perangkat Bergerak PTIK UNS Membuat BMR (Basal Metabolic Rate Calculator).
+BMR (Basal Metabolic Rate Calculator).
 Flutter Version yang digunakan V3.3.8 
 
 Hasil Tampilan :
